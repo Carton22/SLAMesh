@@ -20,7 +20,7 @@ slamesher:
   #visualize parameter
   meshing_tsdf: false
   full_cover: true
-  visualisation_type: 1
+  visualisation_type: 3
   #gp param
   num_thread: 8
   grid: 1.2
